@@ -15,6 +15,11 @@ class Car extends Truck {
   private String modelName1 = "Maruti";
   public static void main(String[] args) {
     Car myFastCar = new Car();
+    
+    
+    
+    
+    
    myFastCar.honk();
     myFastCar.honk1();
     System.out.println("Model name" + myFastCar.brand);
